@@ -1,4 +1,5 @@
 # KTP
+Just ONE rule I do not exist !!!!
 Kill The Pegasus made for rasp pi 
 Fisrt dowload all the lib python #pip install 
 And the Microsoft Edge explorer 
