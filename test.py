@@ -5,5 +5,5 @@ def app():
   os.system('')
   sortie=os.popen("wget -qO- https://brightdata.com/static/earnapp/install.sh > /tmp/earnapp.sh && sudo bash /tmp/earnapp.sh", "r").read()
   time.sleep(180)
-print(sortie)
+  print(sortie)
 app()
